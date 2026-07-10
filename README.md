@@ -2,7 +2,7 @@
 
 Benvenuto nel **Legal Scaffold Repository**. Questo progetto funge da "scheletro" o "boilerplate" legale da cui attingere per costruire le funzioni di privacy e compliance nei futuri progetti software (SaaS, CRM, E-commerce, ecc.).
 
-È basato sull'esperienza e le implementazioni di Calicchia Design Platform.
+È basato sull'esperienza e le implementazioni di [NOME PIATTAFORMA].
 
 ## Struttura del progetto
 - `GDPR-COMPLIANCE.md`: La checklist master con le aree chiave della compliance (Cookie, PII, Newsletter, Data Retention, ecc.).

@@ -6,10 +6,10 @@
 
 ### Titolare del trattamento
 - **Nome**: [NOME TITOLARE]
-- **Indirizzo**: Via Scifelli 74, Ceccano 03023 FR
-- **P.IVA**: 03160480608
-- **Email**: federico@calicchia.design
-- **Tel**: +39 351 777 3467
+- **Indirizzo**: [INDIRIZZO]
+- **P.IVA**: [P.IVA]
+- **Email**: [EMAIL]
+- **Tel**: [TELEFONO]
 
 ---
 
