@@ -1,14 +1,22 @@
-# Legal Scaffold Repository
+<p align="center">
+  <img src="https://img.shields.io/badge/Compliance-GDPR-blue.svg" alt="GDPR Compliance">
+  <img src="https://img.shields.io/badge/Privacy-By_Design-success.svg" alt="Privacy By Design">
+  <img src="https://img.shields.io/badge/Type-Boilerplate-orange.svg" alt="Boilerplate">
+</p>
 
-Benvenuto nel **Legal Scaffold Repository**. Questo progetto funge da "scheletro" o "boilerplate" legale da cui attingere per costruire le funzioni di privacy e compliance nei futuri progetti software (SaaS, CRM, E-commerce, ecc.).
+# Legal Scaffold Repository ⚖️
 
-È basato sull'esperienza e le implementazioni di [NOME PIATTAFORMA].
+[🇮🇹 Leggi in Italiano](README.it.md) | [🇬🇧 English](README.md)
 
-## Struttura del progetto
-- `GDPR-COMPLIANCE.md`: La checklist master con le aree chiave della compliance (Cookie, PII, Newsletter, Data Retention, ecc.).
-- `cookie-consent.md`: Linee guida per il Cookie Banner.
-- `pii-scrubber.md`: Linee guida per oscurare i dati personali prima dell'invio dei log.
-- `data-retention.md`: Best practice per l'eliminazione dei dati inattivi.
-- `legal-docs/`: Modelli riutilizzabili per Privacy Policy, T&C, e DPA.
+Welcome to the **Legal Scaffold Repository**. This project serves as a legal "skeleton" or "boilerplate" to draw from when building privacy and compliance features in future software projects (SaaS, CRM, E-commerce, etc.).
 
-Ogni file contiene istruzioni tecniche, razionali legali, e dove possibile frammenti di codice riutilizzabili.
+It is based on best practices, real-world experience, and GDPR-compliant implementations.
+
+## 📂 Project Structure
+- `GDPR-COMPLIANCE.md`: The master checklist covering key areas of compliance (Cookies, PII, Newsletters, Data Retention, etc.).
+- `cookie-consent.md`: Guidelines and best practices for implementing a compliant Cookie Banner.
+- `pii-scrubber.md`: Technical guidelines for masking Personally Identifiable Information (PII) before sending application logs.
+- `data-retention.md`: Best practices for scheduling and executing the deletion of inactive user data.
+- `legal-docs/`: Reusable templates for Privacy Policies, Terms & Conditions (T&C), and Data Processing Agreements (DPA).
+
+Every file contains technical instructions, legal rationales, and where possible, reusable code snippets.
